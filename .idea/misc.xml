@@ -3,12 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/drawable/background.xml" value="0.1" />
+        <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/drawable/background_blue.xml" value="0.1" />
+        <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/drawable/background_btn.xml" value="0.1" />
         <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/layout/activity_profile.xml" value="0.18547140649149924" />
         <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/layout/detai_data_pemain.xml" value="0.1" />
         <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/layout/detail.xml" value="0.1" />
         <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/layout/list_item_pemain.xml" value="0.12" />
         <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/layout/list_nama_pemain.xml" value="0.17864583333333334" />
+        <entry key="..\:/Praktek Pem.mobile/Recyclerview/app/src/main/res/menu/menu_main.xml" value="0.12447916666666667" />
       </map>
     </option>
   </component>
