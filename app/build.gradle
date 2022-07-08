@@ -3,6 +3,7 @@ import org.gradle.api.internal.tasks.ImplementationAwareTaskAction
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id ("kotlin-parcelize")
 }
 
  android
@@ -16,7 +17,7 @@ plugins {
              }
 
     defaultConfig {
-        applicationId "com.example.recyclerview"
+        applicationId "com.muhammadfatchulhuda.tokohindonesia"
         minSdk 30
         targetSdk 32
         versionCode 1

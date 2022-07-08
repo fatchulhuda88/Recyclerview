@@ -10,13 +10,13 @@
         android:id="@+id/logosplash"
         android:layout_width="190dp"
         android:layout_height="190dp"
-        android:src="@drawable/rm"
+        android:src="@drawable/logo1"
         android:layout_centerInParent="true"/>
     <TextView
         android:id="@+id/txtaplicationname"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Real Madrid FC Ver.01"
+        android:text=" Pahlawan Indonesia ver.01"
         android:layout_below="@id/logosplash"
         android:layout_centerInParent="true"
         android:layout_marginTop="4dp" />
